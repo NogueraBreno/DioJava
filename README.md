@@ -1,1 +1,2 @@
 # DioJava
+# Resoluções de desafios.
